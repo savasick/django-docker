@@ -1,0 +1,4 @@
+Django
+psycopg2
+pytest-asyncio
+pytest-django
